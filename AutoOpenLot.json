@@ -1,8 +1,9 @@
 {
-	"name": "Лотерейные билетики",
+	"name": "Auto Open Loto",
 	"loop": true,
 	"items": [
 		{"type":1,"content":"\/invent","delay":1000},
 		{"type":0,"content":"clickOnButton|{\"type\": 1,\"slot\": 0, \"action\": 1}","delay":7000}
 	]
+
 }
